@@ -7,8 +7,6 @@
             * [How to install a specific Java Version ?](#how-to-install-a-specific-java-version-)
                 * [Java 21](#java-21)
             * [How to switch between JAVA Versions ?](#how-to-switch-between-java-versions-)
-    * [Set up Insomnia Rest Client](#set-up-insomnia-rest-client)
-        * [Set up the HTTP Request collection.](#set-up-the-http-request-collection)
 <!-- TOC -->
 
 # Java Installation
