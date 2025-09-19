@@ -14,7 +14,8 @@
 ## Java Installation using Installer
 
 - Download the latest java from the below link
-    - [Java 21](https://www.oracle.com/java/technologies/downloads/)
+    - [Java 25](https://www.oracle.com/java/technologies/downloads/) 
+    - [Java 21](https://www.oracle.com/java/technologies/downloads/#java21)
 
 ## Java Installation using SDK man
 
@@ -30,6 +31,25 @@
 sdk list java
 ```
 #### How to install a specific Java Version ?
+
+##### Java 25
+
+```linux
+sdk list java | grep '25'
+```
+- Running the below command will install Java 21.
+
+```linux
+sdk install java 21.0.2-tem
+```
+
+#### How to switch between JAVA Versions ?
+
+- List the different installed versions of Java.
+
+```linux
+sdk list java | grep 'installed'
+```
 
 ##### Java 21
 
