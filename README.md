@@ -1,12 +1,14 @@
 <!-- TOC -->
 * [Java Installation](#java-installation)
-    * [Java Installation using Installer](#java-installation-using-installer)
-    * [Java Installation using SDK man](#java-installation-using-sdk-man)
-        * [Install sdkMan](#install-sdkman)
-        * [Install Java using sdk man](#install-java-using-sdk-man)
-            * [How to install a specific Java Version ?](#how-to-install-a-specific-java-version-)
-                * [Java 21](#java-21)
-            * [How to switch between JAVA Versions ?](#how-to-switch-between-java-versions-)
+  * [Java Installation using Installer](#java-installation-using-installer)
+  * [Java Installation using SDK man](#java-installation-using-sdk-man)
+    * [Install sdkMan](#install-sdkman)
+    * [Install Java using sdk man](#install-java-using-sdk-man)
+      * [How to install a specific Java Version ?](#how-to-install-a-specific-java-version-)
+        * [Java 25](#java-25)
+      * [How to switch between JAVA Versions ?](#how-to-switch-between-java-versions-)
+        * [Java 21](#java-21)
+      * [How to switch between JAVA Versions ?](#how-to-switch-between-java-versions--1)
 <!-- TOC -->
 
 # Java Installation
