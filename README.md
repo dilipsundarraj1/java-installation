@@ -42,7 +42,7 @@ sdk list java | grep '25'
 - Running the below command will install Java 21.
 
 ```linux
-sdk install java 21.0.2-tem
+sdk install java 25-tem
 ```
 
 #### How to switch between JAVA Versions ?
