@@ -13,6 +13,8 @@
 
 # Java Installation
 
+> 🪟 **Windows Users:** If you're on Windows, please follow the [Windows Installation Guide](Windows_sdk_install.md) which covers installing Java using SDKMAN! via WSL (Windows Subsystem for Linux).
+
 ## Java Installation using Installer
 
 - Download the latest java from the below link
@@ -20,6 +22,8 @@
     - [Java 21](https://www.oracle.com/java/technologies/downloads/#java21)
 
 ## Java Installation using SDK man
+
+> 📝 **Note:** The instructions below are for macOS/Linux users.
 
 ### Install sdkMan
 
@@ -71,3 +75,4 @@ sdk install java 21.0.2-tem
 ```linux
 sdk list java | grep 'installed'
 ```
+
