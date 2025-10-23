@@ -1,7 +1,7 @@
 <!-- TOC -->
-* [Java Installation](#java-installation)
   * [Java Installation using Installer](#java-installation-using-installer)
-  * [Java Installation using SDK man](#java-installation-using-sdk-man)
+  * [Java Installation - windows](#java-installation---windows)
+  * [Java Installation using SDK man - mac](#java-installation-using-sdk-man---mac)
     * [Install sdkMan](#install-sdkman)
     * [Install Java using sdk man](#install-java-using-sdk-man)
       * [How to install a specific Java Version ?](#how-to-install-a-specific-java-version-)
@@ -11,9 +11,7 @@
       * [How to switch between JAVA Versions ?](#how-to-switch-between-java-versions--1)
 <!-- TOC -->
 
-# Java Installation
 
-> 🪟 **Windows Users:** If you're on Windows, please follow the [Windows Installation Guide](Windows_sdk_install.md) which covers installing Java using SDKMAN! via WSL (Windows Subsystem for Linux).
 
 ## Java Installation using Installer
 
@@ -21,7 +19,12 @@
     - [Java 25](https://www.oracle.com/java/technologies/downloads/) 
     - [Java 21](https://www.oracle.com/java/technologies/downloads/#java21)
 
-## Java Installation using SDK man
+## Java Installation - windows
+
+> 🪟 **Windows Users:** If you're on Windows, please follow the [Windows Installation Guide](Windows_sdk_install.md) which covers installing Java using SDKMAN! via WSL (Windows Subsystem for Linux).
+
+
+## Java Installation using SDK man - mac
 
 > 📝 **Note:** The instructions below are for macOS/Linux users.
 
