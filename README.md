@@ -1,5 +1,4 @@
 <!-- TOC -->
-  * [Java Installation using Installer](#java-installation-using-installer)
   * [Java Installation using SDK man - windows](#java-installation-using-sdk-man---windows)
   * [Java Installation using SDK man - mac](#java-installation-using-sdk-man---mac)
     * [Install sdkMan](#install-sdkman)
@@ -9,15 +8,9 @@
       * [How to switch between JAVA Versions ?](#how-to-switch-between-java-versions-)
         * [Java 21](#java-21)
       * [How to switch between JAVA Versions ?](#how-to-switch-between-java-versions--1)
+  * [Java Installation using Installer](#java-installation-using-installer)
 <!-- TOC -->
 
-
-
-## Java Installation using Installer
-
-- Download the latest java from the below link
-    - [Java 25](https://www.oracle.com/java/technologies/downloads/) 
-    - [Java 21](https://www.oracle.com/java/technologies/downloads/#java21)
 
 ## Java Installation using SDK man - windows
 
@@ -77,4 +70,10 @@ sdk install java 21.0.2-tem
 ```linux
 sdk list java | grep 'installed'
 ```
+
+## Java Installation using Installer
+
+- Download the latest java from the below link
+    - [Java 25](https://www.oracle.com/java/technologies/downloads/)
+    - [Java 21](https://www.oracle.com/java/technologies/downloads/#java21)
 
